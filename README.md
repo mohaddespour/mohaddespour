@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohaddespour
 - 👀 I’m interested in Python, Front, Back-end and MQL
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS and Django
 - 📫 How to reach me m.mohaddespour1374@gmail.com
 
 <!---
